@@ -23,6 +23,31 @@
 }
 
 
+@media only screen and (max-width: 400px){
+  .imagearea{
+    width: 150px;
+    height: 200px;
+    margin-left: 25%;
+  }
+  .about{
+    font-size: 2rem !important;
+  }
+  .aboutme{
+    text-align: center !important;
+    margin-top: 3rem !important;
+  }
+  .am{
+    font-size: 1rem !important;
+  }
+  .icons{
+    margin-left: 3px !important;
+  }
+  .deal{
+    font-size: 0.8rem !important;
+  }
+}
+
+
 body{
     margin: 0;
     padding: 0;
