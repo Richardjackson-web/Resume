@@ -1,3 +1,9 @@
+
+alert( 'Hi! My name is Richard Jackson' );
+
+
+
+
 $(document).ready(function() {
 	$('.popup-gallery').magnificPopup({
 		delegate: 'a',
