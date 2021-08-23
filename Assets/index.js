@@ -1,5 +1,5 @@
 
-alert( 'Hi! My name is Richard Jackson' );
+// alert( 'Hi! My name is Richard Jackson' );
 
 
 
