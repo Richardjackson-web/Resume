@@ -1,8 +1,9 @@
 @media only screen and (max-width: 320px){
   .imagearea{
-    width: 150px;
+    /* width: 150px;
     height: 200px;
-    margin-left: 25%;
+    margin-left: 1rem !important; */
+    
   }
   .about{
     font-size: 2rem !important;
